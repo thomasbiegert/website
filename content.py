@@ -29,13 +29,13 @@ SOCIAL_LINKS = [
 ]
 
 HOME_CONTENT = """
-<div class="hero">
-    <div class="hero-text">
+<div class="intro">
+    <div class="intro-text">
         <h1 class="sr-only">Thomas Biegert</h1>
-        <p class="hero-tagline">Sociologist. Interested in Social Policy, Labor Markets,
+        <p class="intro-tagline">Sociologist. Interested in Social Policy, Labor Markets,
         Cumulative Inequality, and Research Methods. LSE Department of Social Policy.</p>
     </div>
-    <img class="hero-photo" src="{{ROOT}}img/thomas-gears.jpg" alt="Thomas Biegert">
+    <img class="intro-photo" src="{{ROOT}}img/thomas-gears.jpg" alt="Thomas Biegert">
 </div>
 
 <div class="text-block">
